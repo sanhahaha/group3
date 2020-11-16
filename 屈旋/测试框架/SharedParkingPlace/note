@@ -1,0 +1,41 @@
+使用unittest测试框架：
+    [Report]：测试报告层，装载测试用例生成测试报告
+
+    [Module]；用例执行层，测试用例执行
+
+    [Test]：用例层，Test前缀，只调用动作实现
+
+业务逻辑：
+    [Action]：动作层，具体的业务执行
+        do_
+
+    [Tool]：工具层
+        gui_util:对图形界面的操作
+
+        api_util:对接口的操作
+
+        file_util:对文件、工具的操作
+
+    [logs]：存放日志
+
+    [Image]：错误截图图像存储
+
+数据持久化层：
+    [Data]：数据持久化层
+        关键字驱动
+
+    [Config]:配置文件层
+
+
+
+
+
+
+SharedParkingPlace测试类型：
+
+    Smoking Test:
+            测试图形界面基本功能是否实现，框架设计思路：使用关键字驱动测试
+
+
+    interface Test:
+            和GUI使用同一数据格式、方法和模块；在用例和方法和GUI分开
