@@ -1,0 +1,4 @@
+2020-11-08 13:18:26,921 - D:\Code\PycharmProjects\pythonProject\FrameDemo\Wn_testing\Kw_driver\File_Uite - INFO - *****************************************************
+
+2020-11-08 13:18:27,089 - D:\Code\PycharmProjects\pythonProject\FrameDemo\Wn_testing\Kw_driver\File_Uite - INFO - read_json文件读取正确
+2020-11-08 13:18:36,546 - D:\Code\PycharmProjects\pythonProject\FrameDemo\Wn_testing\Kw_driver\File_Uite - ERROR - 没有找到xpath=//form[@class="form-inline"]/button元素

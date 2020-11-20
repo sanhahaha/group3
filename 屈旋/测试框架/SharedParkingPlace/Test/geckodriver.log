@@ -1,0 +1,53 @@
+1605698844349	mozrunner::runner	INFO	Running command: "D:\\Program Files(x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileF7CKsT"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605698847239	Marionette	INFO	Listening on port 58475
+1605698847476	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605698857651	Marionette	INFO	Stopped listening on port 58475
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605851487017	mozrunner::runner	INFO	Running command: "D:\\Program Files(x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileC79X34"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605851490077	Marionette	INFO	Listening on port 2138
+1605851490144	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605851582392	mozrunner::runner	INFO	Running command: "D:\\Program Files(x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile3amyHN"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605851585842	Marionette	INFO	Listening on port 2300
+1605851586021	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 22040, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1605851599459	Marionette	INFO	Stopped listening on port 2300
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ reading cache file:" (new Error("", "(unknown module)"))
+1605851592624	Marionette	INFO	Listening on port 2395
+1605851592772	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 16964, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1605851600647	Marionette	INFO	Stopped listening on port 2395
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605851612348	mozrunner::runner	INFO	Running command: "D:\\Program Files(x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilebEqNrX"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605851615541	Marionette	INFO	Listening on port 2486
+1605851615984	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13124, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605851620252	Marionette	INFO	Stopped listening on port 2486
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

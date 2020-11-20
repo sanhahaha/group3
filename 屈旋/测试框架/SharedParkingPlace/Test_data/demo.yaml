@@ -1,0 +1,11 @@
+name: Cactus
+age: 18
+skills:
+  -
+    - Python
+    - 3
+  -
+    - Java
+    - 5
+has_blog: true
+gf: ~

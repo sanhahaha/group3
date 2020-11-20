@@ -1,0 +1,7 @@
+2020-11-18 17:45:20,014 - D:\Code\PycharmProjects\pythonProject\FrameDemo\SharedParkingPlace\Kw_driver\File_Uite - INFO - *****************************************************
+
+2020-11-18 17:45:20,497 - D:\Code\PycharmProjects\pythonProject\FrameDemo\SharedParkingPlace\Kw_driver\File_Uite - INFO - read_json文件读取正确
+2020-11-18 17:45:30,527 - D:\Code\PycharmProjects\pythonProject\FrameDemo\SharedParkingPlace\Kw_driver\File_Uite - ERROR - 没有找到xpath=//div//span[text()="订单投诉"]元素
+2020-11-18 17:45:35,539 - D:\Code\PycharmProjects\pythonProject\FrameDemo\SharedParkingPlace\Kw_driver\File_Uite - ERROR - 没有找到id=panel-title panel-with-icon元素
+2020-11-18 17:45:38,002 - D:\Code\PycharmProjects\pythonProject\FrameDemo\SharedParkingPlace\Kw_driver\File_Uite - ERROR - 没有找到xpath=/html/body/div[1]/div[2]/div[1]/a[1]/span/span[1]元素
+2020-11-18 17:45:38,027 - D:\Code\PycharmProjects\pythonProject\FrameDemo\SharedParkingPlace\Kw_driver\File_Uite - ERROR - 没有找到id=_easyui_tree_1元素
