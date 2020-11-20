@@ -1,0 +1,12 @@
+{
+    "打开浏览器":"open_browser",
+    "获取页面":"get_page",
+    "输入":"input",
+    "点击":"click",
+    "休眠":"sleep",
+    "断言存在元素":"assert_exist_element",
+    "选择":"select",
+    "关闭浏览器":"close",
+    "弹窗确定": "queding",
+    "弹窗取消": "quxiao"
+}

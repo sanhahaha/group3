@@ -1,0 +1,9 @@
+mysql:
+  host: 172.16.13.30
+  database: woniusales
+  user: root
+  password: 123456
+  charset: utf8
+test:
+  test001: 111
+  test002: 222

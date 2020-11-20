@@ -1,0 +1,18 @@
+[
+    {
+        "patn":"../data/ws_case_ui.xlsx",
+        "sheet_name":"login",
+        "start_row":1,
+        "end_rom":6,
+        "data_col":4,
+        "expect_col":5
+    },
+    {
+        "patn":"../data/ws_case_ui.xlsx",
+        "sheet_name":"customer",
+        "start_row":1,
+        "end_rom":6,
+        "data_col":4,
+        "expect_col":5
+    }
+]
