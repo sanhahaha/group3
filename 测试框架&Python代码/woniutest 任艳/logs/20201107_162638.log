@@ -1,0 +1,4 @@
+2020-11-07 16:26:38,702 - D:\pycharmbiancheng\pythonProject4\woniutestV1\kwdriven\util - INFO - *****************************************************
+
+2020-11-07 16:26:51,405 - D:\pycharmbiancheng\pythonProject4\woniutestV1\kwdriven\util - ERROR - 没有找到css_selector=#vipsell > div:nth-child(1) > form > div:nth-child(2) > button                                                 点击查询元素
+2020-11-07 16:26:53,924 - D:\pycharmbiancheng\pythonProject4\woniutestV1\kwdriven\util - ERROR - 没有读取文件

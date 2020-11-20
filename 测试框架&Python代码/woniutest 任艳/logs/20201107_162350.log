@@ -1,0 +1,4 @@
+2020-11-07 16:23:50,921 - D:\pycharmbiancheng\pythonProject4\woniutestV1\kwdriven\util - INFO - *****************************************************
+
+2020-11-07 16:24:03,181 - D:\pycharmbiancheng\pythonProject4\woniutestV1\kwdriven\util - ERROR - 没有找到xpath=/html/body/div[4]/div[1]/div/div[1]/form/button/span元素
+2020-11-07 16:24:08,190 - D:\pycharmbiancheng\pythonProject4\woniutestV1\kwdriven\util - ERROR - 没有找到id=barcode元素

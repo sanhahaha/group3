@@ -1,0 +1,893 @@
+1604730513958	mozrunner::runner	INFO	Running command: "D:\\download\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\GUOLON~1\\AppData\\Local\\Temp\\rust_mozprofile.yAE6DQUGJPVQ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604730516218	Marionette	INFO	Listening on port 30584
+1604730516574	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1604730519987	Marionette	INFO	Stopped listening on port 30584
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604731258825	mozrunner::runner	INFO	Running command: "D:\\download\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\GUOLON~1\\AppData\\Local\\Temp\\rust_mozprofile.Sl80HMgrslRU"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604731261156	Marionette	INFO	Listening on port 30786
+1604731261447	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1604731280565	Marionette	INFO	Stopped listening on port 30786
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604731290015	mozrunner::runner	INFO	Running command: "D:\\download\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\GUOLON~1\\AppData\\Local\\Temp\\rust_mozprofile.z4VyztxkyGGl"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604731292129	Marionette	INFO	Listening on port 30846
+1604731292144	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+1604731348304	Marionette	INFO	Stopped listening on port 30846
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604731390784	mozrunner::runner	INFO	Running command: "D:\\download\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\GUOLON~1\\AppData\\Local\\Temp\\rust_mozprofile.3hSHRzneS8NJ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604731393043	Marionette	INFO	Listening on port 30964
+1604731393402	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1604731396006	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1604737367441	Marionette	INFO	Stopped listening on port 30964
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rs\\GUOLON~1\\AppData\\Local\\Temp\\rust_mozprofile.ueJTdse7zh3v"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604735777455	Marionette	INFO	Listening on port 31681
+1604735777735	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1604735780406	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://g.csdnimg.cn/tingyun/1.8.3/blog.js, line 1: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1189: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+1604737367823	Marionette	INFO	Stopped listening on port 31681
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+e.jsm, line 66: Error: Can't find profile directory.
+1604736030285	Marionette	INFO	Listening on port 31885
+1604736030380	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1604736033109	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1189: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+1604737367380	Marionette	INFO	Stopped listening on port 31885
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+e.jsm, line 66: Error: Can't find profile directory.
+1604736092370	Marionette	INFO	Listening on port 31942
+1604736092684	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1604736095356	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1189: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+1604737367223	Marionette	INFO	Stopped listening on port 31942
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ 31996
+1604736135269	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1604736138094	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1604737366985	Marionette	INFO	Stopped listening on port 31996
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rs\\GUOLON~1\\AppData\\Local\\Temp\\rust_mozprofile.ZUU5rdeaqJqR"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604736382771	Marionette	INFO	Listening on port 32090
+1604736382993	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1604736385742	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1604737366226	Marionette	INFO	Stopped listening on port 32090
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+dules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604736435917	Marionette	INFO	Listening on port 32146
+1604736436084	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1604736438867	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1604737366551	Marionette	INFO	Stopped listening on port 32146
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+dules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604736973346	Marionette	INFO	Listening on port 32295
+1604736973498	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1604737366960	Marionette	INFO	Stopped listening on port 32295
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rs\\GUOLON~1\\AppData\\Local\\Temp\\rust_mozprofile.sGTPTjwH0Cel"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604737007282	Marionette	INFO	Listening on port 32345
+1604737007533	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1604737014286	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1604737366469	Marionette	INFO	Stopped listening on port 32345
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+dules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604737122128	Marionette	INFO	Listening on port 32404
+1604737122287	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1604737129163	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1604737365939	Marionette	INFO	Stopped listening on port 32404
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rs\\GUOLON~1\\AppData\\Local\\Temp\\rust_mozprofile.NFVEjk78teAg"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604737150654	Marionette	INFO	Listening on port 32454
+1604737150833	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1604737157560	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1604737366155	Marionette	INFO	Stopped listening on port 32454
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+dules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604737212603	Marionette	INFO	Listening on port 32547
+1604737212618	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1604737217415	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604737365849	Marionette	INFO	Stopped listening on port 32547
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ening on port 32619
+1604737262462	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1604737267504	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1604737366667	Marionette	INFO	Stopped listening on port 32619
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+dules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604737314053	Marionette	INFO	Listening on port 32674
+1604737314211	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1604737319039	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1604737366441	Marionette	INFO	Stopped listening on port 32674
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604737372343	mozrunner::runner	INFO	Running command: "D:\\download\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\GUOLON~1\\AppData\\Local\\Temp\\rust_mozprofile.en2zPZvyUsuJ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604737374896	Marionette	INFO	Listening on port 32750
+1604737374965	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1604737379653	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1604738878767	Marionette	INFO	Stopped listening on port 32750
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rs\\GUOLON~1\\AppData\\Local\\Temp\\rust_mozprofile.0owCwIVmnLWV"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604737436399	Marionette	INFO	Listening on port 32808
+1604737436874	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1604738878026	Marionette	INFO	Stopped listening on port 32808
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+dules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604737483635	Marionette	INFO	Listening on port 32871
+1604737483928	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1604737488583	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+console.error: services.settings: 
+  security-state/cert-revocations Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  security-state/intermediates Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  security-state/onecrl Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  pinning/pins Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  console.error: services.settings: 
+  security-state/cert-revocations1604738878173	Marionette	INFO	Stopped listening on port 32871
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  security-state/onecrl Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  pinning/pins Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  console.error: services.settings: 
+  security-state/cert-revocations
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604738878718	Marionette	INFO	Stopped listening on port 32927
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  security-state/onecrl Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  pinning/pins Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  console.error: services.settings: 
+  security-state/cert-revocations
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604738878809	Marionette	INFO	Stopped listening on port 33013
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  security-state/onecrl Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  pinning/pins Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  console.error: services.settings: 
+  security-state/cert-revocations1604738878771	Marionette	INFO	Stopped listening on port 33072
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+hen attempting to fetch resource.
+console.error: services.settings: 
+  security-state/intermediates Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  security-state/onecrl Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  pinning/pins Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  console.error: services.settings: 
+  security-state/cert-revocations1604738878543	Marionette	INFO	Stopped listening on port 33139
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+hen attempting to fetch resource.
+console.error: services.settings: 
+  security-state/intermediates Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  security-state/onecrl Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  pinning/pins Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+1604738878104	Marionette	INFO	Stopped listening on port 33204
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1604737983923	Marionette	INFO	Stopped listening on port 33261
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604737991478	mozrunner::runner	INFO	Running command: "D:\\download\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\GUOLON~1\\AppData\\Local\\Temp\\rust_mozprofile.eR7Bv9CzqiqM"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604737993933	Marionette	INFO	Listening on port 33329
+1604737994101	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1604737997101	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/normandy-recipes-capabilities Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  blocklists/addons-bloomfilters Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  blocklists/plugins Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/url-classifier-skip-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.sconsole.error: services.settings: 
+  main/normandy-recipes-capabilities Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  1604738878525	Marionette	INFO	Stopped listening on port 33329
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+  blocklists/plugins Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/url-classifier-skip-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+1604738878184	Marionette	INFO	Stopped listening on port 33393
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  blocklists/addons-bloomfilters Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  blocklists/plugins Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/url-classifier-skip-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+1604738878384	Marionette	INFO	Stopped listening on port 33455
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  blocklists/addons-bloomfilters Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  blocklists/plugins Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/url-classifier-skip-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+1604738878350	Marionette	INFO	Stopped listening on port 33514
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+AndWait] Error: Channel error: cannot send/recv
+
+dules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604738498762	Marionette	INFO	Listening on port 33649
+1604738498791	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1604738502249	Marionette	INFO	Stopped listening on port 33649
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604738513289	mozrunner::runner	INFO	Running command: "D:\\download\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\GUOLON~1\\AppData\\Local\\Temp\\rust_mozprofile.Qf4wh4IlQ46Z"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604738515707	Marionette	INFO	Listening on port 33695
+1604738515912	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1604738518862	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1604738877951	Marionette	INFO	Stopped listening on port 33695
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rs\\GUOLON~1\\AppData\\Local\\Temp\\rust_mozprofile.NxJOh8IZJRNR"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604738560463	Marionette	INFO	Listening on port 33753
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1604738560962	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1604738563947	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1604738877680	Marionette	INFO	Stopped listening on port 33753
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rs\\GUOLON~1\\AppData\\Local\\Temp\\rust_mozprofile.r1jPupOltQMU"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604738614345	Marionette	INFO	Listening on port 33808
+1604738614838	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1604738617837	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1604738876519	Marionette	INFO	Stopped listening on port 33808
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604738669586	Marionette	INFO	Listening on port 33870
+1604738669956	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1604738673142	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1604738876529	Marionette	INFO	Stopped listening on port 33870
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rs\\GUOLON~1\\AppData\\Local\\Temp\\rust_mozprofile.aqwfN57DIOTt"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604738763361	Marionette	INFO	Listening on port 33925
+1604738763524	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1604738766528	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1604738875632	Marionette	INFO	Stopped listening on port 33925
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604738963310	mozrunner::runner	INFO	Running command: "D:\\download\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\GUOLON~1\\AppData\\Local\\Temp\\rust_mozprofile.e77hB4ODzuYS"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604738965778	Marionette	INFO	Listening on port 34142
+1604738965931	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1604738968869	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1604740415044	Marionette	INFO	Stopped listening on port 34142
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rs\\GUOLON~1\\AppData\\Local\\Temp\\rust_mozprofile.1kOg4ctlHtiP"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604739154062	Marionette	INFO	Listening on port 34244
+1604739154325	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1604739157232	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1604740414940	Marionette	INFO	Stopped listening on port 34244
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rs\\GUOLON~1\\AppData\\Local\\Temp\\rust_mozprofile.3W1BH394EiSi"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604739186549	Marionette	INFO	Listening on port 34308
+1604739186789	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1604739189691	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1604740414948	Marionette	INFO	Stopped listening on port 34308
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rs\\GUOLON~1\\AppData\\Local\\Temp\\rust_mozprofile.mEkcBc0KXfIi"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604739308160	Marionette	INFO	Listening on port 34373
+1604739308441	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1604739311452	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1604740414841	Marionette	INFO	Stopped listening on port 34373
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rs\\GUOLON~1\\AppData\\Local\\Temp\\rust_mozprofile.5dULSIw3tqau"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604739386616	Marionette	INFO	Listening on port 34431
+1604739386877	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1604739389800	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1604740414729	Marionette	INFO	Stopped listening on port 34431
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rs\\GUOLON~1\\AppData\\Local\\Temp\\rust_mozprofile.1c0Ww7DWeji5"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604739455915	Marionette	INFO	Listening on port 34488
+1604739456173	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1604739459140	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1604740414765	Marionette	INFO	Stopped listening on port 34488
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+dules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604739826436	Marionette	INFO	Listening on port 34609
+1604739826659	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1604739829700	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1604740414367	Marionette	INFO	Stopped listening on port 34609
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rs\\GUOLON~1\\AppData\\Local\\Temp\\rust_mozprofile.QkG9d8JMj7g1"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604739874145	Marionette	INFO	Listening on port 34664
+1604739874223	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1604739877145	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1604740414397	Marionette	INFO	Stopped listening on port 34664
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+dules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604739912035	Marionette	INFO	Listening on port 34723
+1604739912060	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1604739915074	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1604740414955	Marionette	INFO	Stopped listening on port 34723
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rs\\GUOLON~1\\AppData\\Local\\Temp\\rust_mozprofile.dLrGVYKN7Zr6"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604739983875	Marionette	INFO	Listening on port 34794
+1604739983974	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1604739993011	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1604740414351	Marionette	INFO	Stopped listening on port 34794
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rs\\GUOLON~1\\AppData\\Local\\Temp\\rust_mozprofile.ahYq4d4iCA4i"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604740012357	Marionette	INFO	Listening on port 34844
+1604740012386	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1604740021403	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1604740414338	Marionette	INFO	Stopped listening on port 34844
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

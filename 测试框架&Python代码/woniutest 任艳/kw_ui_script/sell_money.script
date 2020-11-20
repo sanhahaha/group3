@@ -1,0 +1,21 @@
+# 该脚本为演示脚本
+打开浏览器,Firefox
+获取页面,http://192.168.159.129:8080/WoniuSales/
+输入,id=username,admin
+输入,id=password,Milor123
+输入,id=verifycode,0000
+点击,xpath=/html/body/div[4]/div/form/div[6]/button
+休眠,3
+数据库初次查询,select remained from storesum where barcode="22222222"
+休眠,3
+输入,id=barcode,22222222
+点击,xpath=/html/body/div[4]/div[1]/div/div[1]/form/button
+输入,id=customerphone,15983123450
+点击,xpath=/html/body/div[4]/div[4]/div[1]/form/div[2]/button
+点击,id=submit
+休眠,2
+确认弹出框
+休眠,3
+数据库二次查询,select remained from storesum where barcode="22222222"
+休眠,2
+数据库前后结果比对

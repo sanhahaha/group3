@@ -1,0 +1,37 @@
+1604741510247	mozrunner::runner	INFO	Running command: "D:\\download\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\GUOLON~1\\AppData\\Local\\Temp\\rust_mozprofile.FIc5Yoz0Gduw"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604741512629	Marionette	INFO	Listening on port 35099
+1604741512867	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource:///actors/AboutReaderChild.jsm, line 95: NS_ERROR_UNEXPECTED: 
+1604823413203	mozrunner::runner	INFO	Running command: "D:\\download\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\GUOLON~1\\AppData\\Local\\Temp\\rust_mozprofile.B8UzcxfTOk94"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604823415517	Marionette	INFO	Listening on port 31724
+1604823415825	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1604823582400	mozrunner::runner	INFO	Running command: "D:\\download\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\GUOLON~1\\AppData\\Local\\Temp\\rust_mozprofile.T2djcGDbn3oX"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604823584572	Marionette	INFO	Listening on port 31847
+1604823585022	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1604824129692	mozrunner::runner	INFO	Running command: "D:\\download\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\GUOLON~1\\AppData\\Local\\Temp\\rust_mozprofile.iMWgiowgEZDN"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604824132063	Marionette	INFO	Listening on port 32065
+1604824132328	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1604824295787	mozrunner::runner	INFO	Running command: "D:\\download\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\GUOLON~1\\AppData\\Local\\Temp\\rust_mozprofile.hDxvcF7F2VNw"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604824298274	Marionette	INFO	Listening on port 32122
+1604824298414	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1604833476031	Marionette	INFO	Stopped listening on port 32122
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+dules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604824542105	Marionette	INFO	Listening on port 32204
+1604824542466	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
