@@ -1,0 +1,15 @@
+打开浏览器,Firefox
+休眠,1
+获取页面,http://192.168.186.159:8080/SharedParkingPlace/
+休眠,1
+输入,id=uname,出租方1
+输入,id=upass,123
+输入,id=imgcode,0000
+点击,id=button
+休眠,2
+输入,id=barcode,11111111
+点击,id=submit
+弹窗确定
+休眠,1
+弹窗确定
+关闭浏览器

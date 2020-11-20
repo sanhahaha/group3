@@ -1,0 +1,16 @@
+# 该脚本为演示脚本
+打开浏览器,Firefox
+休眠,1
+获取页面,http://192.168.186.158:8888/WoniuSales1.4/
+休眠,1
+输入,id=username,admin
+输入,id=password,admin123
+输入,id=verifycode,0000
+点击,xpath=/html/body/div[4]/div/form/div[6]/button
+休眠,2
+输入,id=barcode,11111111
+点击,id=submit
+弹窗确定
+休眠,1
+弹窗确定
+关闭浏览器
